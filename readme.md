@@ -1,5 +1,9 @@
 Tela de boas vindas MarkDown 
-<p>
-  Primeira linha do parágrafo.<br />
-  Segunda linha do parágrafo.
-</p>
+
+<blockquote>
+  <p>
+    Esse é um bloco de citação.
+    Ele pode ter várias linhas.
+  </p>
+  <p>Inclusive, uma quebra de linha.</p>
+</blockquote>
