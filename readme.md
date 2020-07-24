@@ -5,7 +5,7 @@ Tela de boas vindas MarkDown
 
 paixonado por Software e código aberto
 <blockquote>
-  <p>
+ <p>A </pi>nda estou escrevendo este README
     Esse é um bloco de citação.
     Ele pode ter várias linhas.
   </p><br>
