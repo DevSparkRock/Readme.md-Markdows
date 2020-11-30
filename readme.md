@@ -3,7 +3,7 @@ Tela de boas vindas MarkDown
 ## About me 
 
 
-paixonado por Software e código aberto
+Apaixonado por Software e código aberto
 <blockquote>
  <p>Ainda estou escrevendo este README </p>
     Esse é um bloco de citação.
